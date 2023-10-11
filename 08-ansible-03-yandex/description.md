@@ -1,5 +1,5 @@
 ## Clichouse , Vector and Ligthouse  Ansible-Playbook
-Данный playbook скачивает и устанавливает Clichouse и Vector на укащанное в файле inventory окружения для 
+Данный playbook скачивает и устанавливает Clichouse и Vector на указанное в файле inventory окружения для 
 
 ## Версия ОС рабочих станций
 Centos7
